@@ -1,0 +1,9 @@
+Package: gq.8a1wkar.dockx13
+Name: DockX 13
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: ‪DockX 13 for change your dock iPhone/6/7/8 to iPhone X. ‬
+Maintainer: 8a1wkar
+Author: 8a1wkar
+Section: Tweaks
