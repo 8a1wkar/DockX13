@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+
+	      <dict>
+		   <key>backgroundGradientColors</key>
+			<array>
+			<string>#495F80</string>
+			<string>#495F80</string>
+			</array>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+		   <string>HBPackageNameHeaderCell</string>
+          <key>showVersion</key>
+			<string>false</string>
+			<key>packageIdentifier</key>
+          <string>gq.8a1wkar.dockx13</string>
+			<key>subtitleColor</key>
+			<string>#FFF</string>
+			<key>titleColor</key>
+			<string>#FFF</string>
+		   </dict>
+
+          <dict>
+          <key>cellClass</key>
+          <string>HBTwitterCell</string>
+          <key>label</key>
+          <string>8a1wkar</string>
+          <key>user</key>
+          <string>8a1wkar_dev</string>
+          <key>action</key>
+          <string>twitter</string>
+          </dict>
+
+          <dict>
+          <key>cell</key>
+          <string>PSGroupCell</string>
+          <key>label</key>
+          <string>switch</string>
+          </dict>
+
+
+          <dict>
+          <key>cell</key>
+          <string>PSSwitchCell</string>
+          <key>default</key>
+          <false/>
+          <key>defaults</key>
+          <string>com.apple.springboard</string>
+
+          <key>key</key>
+          <string>enabled</string>
+          <key>label</key>
+          <string>Enabled</string>
+          </dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>about</string>
+		</dict>
+
+		<dict>
+  			<key>cellClass</key>
+   			<string>HBLinkTableCell</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>action</key>
+			<string>donate</string>
+			<key>label</key>
+			<string>Donate</string>
+		</dict>
+
+          <dict>
+          <key>cell</key>
+          <string>PSGroupCell</string>
+          <key>label</key>
+          <string>Source code</string>
+          </dict>
+	       <dict>
+		   <key>cellClass</key>
+          <string>HBLinkTableCell</string>
+	      <key>label</key>
+	      <string>GitHub</string>
+		   <key>subtitle</key>
+		   <string>Source Code</string>
+		   <key>action</key>
+		   <string>github</string>
+	      </dict>
+
+		 <dict>
+		 <key>cell</key>
+		 <string>PSGroupCell</string>
+		 <key>label</key>
+		 <string>© 8a1wkar 2020 - DockX 13 1.0 </string>
+		 </dict>
+
+	</array>
+	<key>title</key>
+	<string>DockX 13</string>
+</dict>
+</plist>
